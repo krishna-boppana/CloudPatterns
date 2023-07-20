@@ -1,0 +1,3 @@
+/logs/split_classes.pt filter=lfs diff=lfs merge=lfs -text
+/models/early_stopping_state.pt filter=lfs diff=lfs merge=lfs -text
+/models/model_fitted.pt filter=lfs diff=lfs merge=lfs -text
